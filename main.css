@@ -1,0 +1,52 @@
+.lindinha {
+    display: flex;
+    align-items: center;
+    flex-direction:column;
+}
+
+.lindinha img {
+    width: 950px; 
+    margin-right: 200px;
+}
+
+
+.lindinha .texto h1 {
+    font-size: 90px;
+    color: black;
+}
+
+footer,a{
+    height: 560px;
+    background-color:#6C63FF;
+    height: 300px;
+    border-radius: 0.9em;
+    text-align: center;
+    align-items: center;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+    font-size: 80px;
+}
+
+a:hover{
+    background-color:#6C63FF;
+    color: white;
+    
+}
+
+.alinhamento{
+    display: flex;
+    flex-direction: column;
+}
+
+.container{
+    display:flex;
+    height:650px;
+    display:flex;
+    align-items:center;
+    text-align:center;
+    justify-content: center;
+    gap:2em;
+    
+}
+
