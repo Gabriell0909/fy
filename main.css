@@ -5,20 +5,18 @@
 }
 
 .lindinha img {
-    width: 950px; 
+    width: 500px; 
     margin-right: 200px;
 }
 
 
 .lindinha .texto h1 {
-    font-size: 90px;
+    font-size: 30px;
     color: black;
 }
 
 footer,a{
-    height: 560px;
     background-color:#6C63FF;
-    height: 300px;
     border-radius: 0.9em;
     text-align: center;
     align-items: center;
@@ -26,6 +24,7 @@ footer,a{
     text-decoration: none;
     color: black;
     font-size: 80px;
+    transform:scale(0.5);
 }
 
 a:hover{
@@ -41,7 +40,6 @@ a:hover{
 
 .container{
     display:flex;
-    height:650px;
     display:flex;
     align-items:center;
     text-align:center;
